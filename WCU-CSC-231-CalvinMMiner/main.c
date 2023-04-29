@@ -1,12 +1,13 @@
 /*
- * $ gcc main.c -o main
- * $ ./main test.txt
- * 
- * test.txt
- * 0x800000478
- * This is first line
- * this is second line
- 
+ * Implement product.c with the following specifications:
+*
+  *  The program will accept a single command line argument representing the path to a text file containing the values of these integers.
+ *       There will be one integer per line.
+  *      The values of the integers will be between 1 and 20.
+   *     There will be ten lines.
+ *   The program will read these ten integers from the text file in part a into an array of integers.
+  *  The program will print out the sum of these intergers on one line.
+   * The program will print out the product of these integers on the next line.
  */
 
 #include <stdio.h>
