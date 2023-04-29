@@ -2,9 +2,6 @@
 *
     *You are to correct all errors in factorial.c and the program run correctly.
     *You should add code to take commandline input and return factorial value of that input number.
-   * Please make sure to read the comments in the factorial.c before you add your code.
-  *  I already added hints in the code file. Also, please feel free to ask me question in the class (if you need additional help).
- *   Please only change the factorial.c and README.md file. If you change any other file(s), then you will receive 0 point for the assignment.
 */
 
 #include <stdio.h>
